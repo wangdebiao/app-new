@@ -1,0 +1,12 @@
+{
+	"welcome.html": {
+		"resources": [
+			"js/swiper.jquery.min.js",
+			"js/fontSize.js",
+			"css/swiper.min.css",
+			"css/public.css",
+			"js/Zepto.js",
+			"js/jquery.min.js"
+		]
+	}
+}
